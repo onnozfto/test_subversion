@@ -7,3 +7,4 @@ git log
 git relog
 git reset --hard head^
 git reset --hard commit id
+
