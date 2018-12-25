@@ -1,2 +1,2 @@
 test ff mode and --no-ff
-aa
+ccf
