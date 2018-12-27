@@ -1,2 +1,10 @@
 test ff mode and --no-ff
 ccf
+slajfsdk
+o
+^m
+crlf
+lf
+carriage return 
+line feed
+:
